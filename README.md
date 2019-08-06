@@ -9,3 +9,5 @@
 4. [Write a automation script using getpagesource,getcurrenturl type methods](Day004.md)
 
 5. [Taking a screenshot using timestamp](Day005.md)
+
+6. [Write a automation script to take a custom screenshot](Day006.md)
