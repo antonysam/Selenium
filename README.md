@@ -11,3 +11,5 @@
 5. [Taking a screenshot using timestamp](Day005.md)
 
 6. [Write a automation script to take a custom screenshot](Day006.md)
+
+7. [Write a automation script to take a screenshot using BASE64 format](Day007.md)
