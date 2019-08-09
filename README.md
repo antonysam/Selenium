@@ -13,3 +13,6 @@
 6. [Write a automation script to take a custom screenshot](Day006.md)
 
 7. [Write a automation script to take a screenshot using BASE64 format](Day007.md)
+
+8. [Write a automation script to convert the base64 image which is in a .txt file to an image](Day008.md)
+
