@@ -16,3 +16,4 @@
 
 8. [Write a automation script to convert the base64 image which is in a .txt file to an image](Day008.md)
 
+9. [Program to take screenshot with highlighted element.](Day009.md)
