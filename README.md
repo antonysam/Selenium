@@ -19,3 +19,7 @@
 9. [Program to take screenshot with highlighted element.](Day009.md)
 
 10. [Compare Screenshots in Selenium](Day010.md)
+
+11. [To store screenshot in PDF (Portable Data Format)file in Selenium using Itext jar](Day011.md)
+
+12. [To type in Selenium without using sendKeys() method and to click the element](Day012.md)
