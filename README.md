@@ -23,3 +23,5 @@
 11. [To store screenshot in PDF (Portable Data Format)file in Selenium using Itext jar](Day011.md)
 
 12. [To type in Selenium without using sendKeys() method and to click the element](Day012.md)
+
+13. [To select multiple dropdowns](Day013.md)
