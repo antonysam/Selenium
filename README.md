@@ -25,3 +25,5 @@
 12. [To type in Selenium without using sendKeys() method and to click the element](Day012.md)
 
 13. [To select multiple dropdowns](Day013.md)
+
+14. [Xpath types](Xpath.md)
