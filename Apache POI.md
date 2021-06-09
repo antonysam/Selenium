@@ -36,7 +36,7 @@ throws IOException
 ```
 ## Snippets
 
-## To create a surce file path
+## To create a source file path
 ```
 String filepath = "sourcepath";
 ```
